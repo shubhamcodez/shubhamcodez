@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shubhamcodez&label=Profile%20views&color=0e75b6&style=flat" alt="akshat2602" /> </p>
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamcodez&theme=dracula" />
   <img src="https://activity-graph.herokuapp.com/graph?username=shubhamcodez&theme=dracula&hide_border=true" />
